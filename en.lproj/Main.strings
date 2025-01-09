@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; configuration.title = "Log in"; ObjectID = "AiP-HR-jvr"; */
+"AiP-HR-jvr.configuration.title" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AiP-HR-jvr"; */
+"AiP-HR-jvr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "SPw-bP-DFc"; */
+"SPw-bP-DFc.text" = "Password";
+
+/* Class = "UILabel"; text = "ID"; ObjectID = "s24-fZ-owI"; */
+"s24-fZ-owI.text" = "ID";
